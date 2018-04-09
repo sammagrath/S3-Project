@@ -1,0 +1,21 @@
+Cloud notes
+java project
+concrete classes
+
+annotate interface - so it's not a java interface - it's a web interface
+1st - @ Webservice - package.interface name
+
+2nd - RPC Remote Procedural Calls a way to call methods/procedures from another machine e.g. from client to AmazonAWS
+
+need to publish our main method - a new object of our implementation on a web server. define url - first part should be local host with ip of machine.
+
+client - server (server runs code, client accesses it)
+
+eclipse provides embedded web server
+
+wsdl document generated - xml way for web services to describe interface
+
+slide 113
+
+
+
